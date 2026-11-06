@@ -1,10 +1,11 @@
-{
+﻿{
 	"id": "hardware-planner",
 	"name": "PC Hardware Planner",
 	"version": "0.7.0",
 	"minAppVersion": "0.15.0",
 	"description": "Live hardware upgrade comparisons, Pareto value analysis, 550W PSU checks, and 1080p game benchmarks for Bangladesh market.",
-	"author": "Mostakim 4 Argon",
+	"author": "Mostakim2005",
 	"authorUrl": "https://github.com/Mostakim2005",
 	"isDesktopOnly": false
 }
+
