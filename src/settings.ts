@@ -1,4 +1,4 @@
-// Hardware Planner — pilot TS scaffold from Mostakim2005 template.
+﻿// Hardware Planner from Mostakim2005 template.
 // Full bundle split is incremental. See README parity checklist.
 export interface HardwareSettings {
   enablePareto: boolean;
@@ -11,3 +11,4 @@ export const DEFAULT_SETTINGS: HardwareSettings = {
   psuWattage: 550,
   glassmorphism: true,
 };
+
